@@ -21,10 +21,10 @@
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-- [cite_start]🎓 **AI Student** at Cairo University (2022-2026)[cite: 9, 10].
-- [cite_start]🚀 Specialized in building scalable web apps with **Next.js 16** & **React 19**[cite: 5, 22].
-- [cite_start]💡 Passionate about **Modern UI/UX**, **Clean Code**, and **Performance Optimization**[cite: 7, 44].
-- [cite_start]💼 Completed a professional **Frontend Internship at DEPI**[cite: 13].
+🎓 **AI Student** at Cairo University (2022-2026)[cite: 9, 10].
+🚀 Specialized in building scalable web apps with **Next.js 16** & **React 19**[cite: 5, 22].
+💡 Passionate about **Modern UI/UX**, **Clean Code**, and **Performance Optimization**[cite: 7, 44].
+💼 Completed a professional **Frontend Internship at DEPI.
 
 ---
 
