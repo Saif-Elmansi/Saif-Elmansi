@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Saif%20Mohmed&fontSize=80&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=00c2ff&secondaryColor=0070f3&height=200&section=header&text=Saif%20Mohmed&fontSize=80&animation=fadeIn" />
   
   <h1>🚀 Frontend Developer | AI Student @ Cairo University</h1>
   
