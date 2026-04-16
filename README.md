@@ -15,19 +15,19 @@
 
 ---
 
-### 📖 About Me
+## 🧠 About Me
 
-<p align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-🎓 **AI Student** at Cairo University (2022-2026)[cite: 9, 10].
-🚀 Specialized in building scalable web apps with **Next.js 16** & **React 19**[cite: 5, 22].
-💡 Passionate about **Modern UI/UX**, **Clean Code**, and **Performance Optimization**[cite: 7, 44].
-💼 Completed a professional **Frontend Internship at DEPI.
+- 🎓 AI Student @ Faculty of Computers & Artificial Intelligence - Cairo University  
+- 🚀 Frontend Developer specialized in **React & Next.js**  
+- 💡 Passionate about **UI/UX, Performance & Clean Architecture**  
+- 💼 Frontend Intern @ DEPI  
+- 🔥 Strong in **Problem Solving & Algorithms**
+
+
 
 ---
-
 ### 🛠️ Tech Stack
 
 #### 📋 Languages & Core
@@ -41,22 +41,31 @@
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-#### 🛒 [MEGA STORE](https://github.com/Saif-Elmansi)
-- [cite_start]**Tech:** Next.js 16, React 19, NextAuth v4, Tailwind CSS v4[cite: 25].
-- [cite_start]**Features:** Full-stack e-commerce with JWT authentication and Server Actions[cite: 22].
-
-#### 📱 [Social Hub](https://github.com/Saif-Elmansi)
-- [cite_start]**Tech:** React, Vite, React Query, HeroUI[cite: 29].
-- [cite_start]**Features:** Social media platform with protected routing and efficient data fetching[cite: 27, 28].
-
-#### ✈️ [Wanderlust](https://github.com/Saif-Elmansi)
-- [cite_start]**Tech:** JavaScript (ES6+), Fetch API, CSS Grid[cite: 34].
-- [cite_start]**Features:** Travel dashboard providing real-time data from 6+ RESTful APIs[cite: 31, 32].
+### 🛒 Mega Store
+🔗 https://github.com/Saif-Elmansi  
+- Full-stack E-commerce platform  
+- Authentication with JWT & NextAuth  
+- Server Actions architecture  
 
 ---
 
+### 📱 Social Hub
+🔗 https://github.com/Saif-Elmansi  
+- Social media app with protected routes  
+- React Query for data fetching  
+- Modern UI  
+
+---
+
+### ✈️ Wanderlust
+🔗 https://github.com/Saif-Elmansi  
+- Travel dashboard using 6+ APIs  
+- Real-time data  
+- Responsive design  
+
+---
 ### 📈 GitHub Stats
 
 <p align="center">
