@@ -43,6 +43,12 @@
 
 ## 🚀 Featured Projects
 
+### 🧑‍💼 Khobrah
+🔗 https://khobrah.com/en 
+- Courses platform 
+- Authentication with JWT & NextAuth  
+- Server Actions architecture  
+
 ### 🛒 Mega Store
 🔗 https://github.com/Saif-Elmansi  
 - Full-stack E-commerce platform  
