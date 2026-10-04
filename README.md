@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello World! I'm Saif Mohmed</h1>
+<h1 align="center">👋 Hello World! I'm Saif Mohamed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Next.js+%26+React+Expert;AI+Student+@+FCAI-CU;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=480&lines=Full-Stack+Developer+(Node.js+%2F+React);Next.js+15%2F16+%26+TypeScript+Specialist;Scalable+RESTful+APIs+%26+Databases;AI+Student+@+FCAI-CU" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,60 +19,57 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
-- 🎓 AI Student @ Faculty of Computers & Artificial Intelligence - Cairo University  
-- 🚀 Frontend Developer specialized in **React & Next.js**  
-- 💡 Passionate about **UI/UX, Performance & Clean Architecture**  
-- 💼 Frontend Intern @ DEPI  
-- 🔥 Strong in **Problem Solving & Algorithms**
-
-
+- 🎓 **Computer Science (AI Major)** @ Faculty of Computers & Artificial Intelligence - Cairo University
+- 🚀 **Full-Stack Developer** building end-to-end web apps with **Node.js, Express, React, and Next.js**
+- 🛡️ Experienced in **RESTful APIs, JWT & NextAuth, RBAC, and MVC Architecture**
+- 🗄️ Proficient in database schema modeling with **MongoDB (Mongoose)** and **MySQL (Sequelize)**
+- ⚡ Focused on **UI/UX, Performance Optimization, Clean Architecture, and AI-Assisted Workflows**
 
 ---
+
 ### 🛠️ Tech Stack
 
-#### 📋 Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
+#### 🌐 Languages & Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,html,css)](https://skillicons.dev)
 
-#### 🚀 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,bootstrap,vite)](https://skillicons.dev)
+#### ⚙️ Backend & Databases
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman)](https://skillicons.dev)
 
-#### 🔨 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,npm,figma)](https://skillicons.dev)
+#### 🔨 Tools & AI Productivity
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,vercel,npm,vscode,python,cpp)](https://skillicons.dev)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧑‍💼 Khobrah
-🔗 https://khobrah.com/en 
-- Courses platform 
-- Authentication with JWT & NextAuth  
-- Server Actions architecture  
-
----
-### 🛒 Mega Store
-🔗 https://github.com/Saif-Elmansi  
-- Full-stack E-commerce platform  
-- Authentication with JWT & NextAuth  
-- Server Actions architecture  
+### 🧑‍💼 [Khobrah](https://khobrah.com) — Bilingual LMS & Industrial Services Platform
+- Full-stack LMS built with **Node.js, Express, Next.js 15, and MongoDB (Mongoose)**.
+- Secure **JWT Authentication & RBAC** (Instructor/Student dashboards, quiz submissions).
+- Bilingual RTL/LTR localization with `next-intl` and server-state caching via **React Query**.
 
 ---
 
-### 📱 Social Hub
-🔗 https://github.com/Saif-Elmansi  
-- Social media app with protected routes  
-- React Query for data fetching  
-- Modern UI  
+### 🛒 [MEGA STORE](https://github.com/Saif-Elmansi) — Full-Stack E-Commerce Platform
+- End-to-end e-commerce platform built with **Next.js 16, React 19, Node.js, and MongoDB**.
+- Authentication using **NextAuth & Server Actions** for protected routes and state handling.
+- Optimized cart persistence, checkout workflows, and modern UI with **Tailwind CSS v4 & shadcn/ui**.
 
 ---
 
-### ✈️ Wanderlust
-🔗 https://github.com/Saif-Elmansi  
-- Travel dashboard using 6+ APIs  
-- Real-time data  
-- Responsive design  
+### 🌶️ [The Spice Center](https://The-Center.com) — Recipe & Retail Web Application
+- Full-stack recipe discovery and retail platform with **Node.js, Express, and MySQL (Sequelize)**.
+- RESTful APIs for catalog queries, store locations, and customer reviews with full CRUD operations.
+- Dynamic filtering, **Zod** form validations, and interactive frontend using **Next.js App Router**.
 
 ---
+
+### 🌐 [Daleel Platform](https://Daleel.com) — Corporate Digital Solutions Website
+- Official corporate website built using **Next.js 16 Server Components** and modern UI animations.
+- RTL-first responsive design, REST API integration, project showcases, and lead capture workflows.
+- Built with **Tailwind CSS v4, Framer Motion, Radix UI, and TypeScript**.
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -98,10 +95,6 @@
   <a href="https://github.com/Saif-Elmansi">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px"/>
 </p>
 
 <h4 align="right">Profile View Count</h4>
