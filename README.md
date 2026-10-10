@@ -81,6 +81,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Elmansi&theme=radical" alt="Saif-Elmansi" />
 </p>
 
+<h3 align="center">🐍 Contribution Graph Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saif-Elmansi/Saif-Elmansi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saif-Elmansi/Saif-Elmansi/output/github-contribution-grid-snake.svg">
+    <img alt="Saif's GitHub Contribution Snake" src="https://raw.githubusercontent.com/Saif-Elmansi/Saif-Elmansi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ---
 
 ### 🎮 Let's Connect!
